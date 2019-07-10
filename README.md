@@ -1,1 +1,1 @@
-# Assignment_Sequence_Diagram
+# Assignment_Association_and_aggregation
